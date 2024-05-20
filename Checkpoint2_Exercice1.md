@@ -2,7 +2,7 @@
 
 on observe que le ping ne fonctionne pas car les deux machines ne partage pas le meme sous-reseau
 
-!()[https://github.com/Lucapouilly/Ckekpoint_2/blob/main/ip/first%20ping%20.png]
+![](https://github.com/Lucapouilly/Ckekpoint_2/blob/main/ip/first%20ping%20.png)
 
 on ajoute une IP statique au client en 172.16.10.50 par exemple pour que les deux machines partage le meme sous reseau
 
